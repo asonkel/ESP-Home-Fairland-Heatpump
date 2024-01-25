@@ -32,7 +32,7 @@ In case you are using a max485 board without automatic flow control, one additio
 
 ![](images/2%20esphome%20device.jpg)
 
-
+#### could you explain in small steps what has to flashed/programmed to the ESP-Board, cause for me this is not clear right now #####
 ## ESP-Home
 1. Create a new ESPHome device in homeassistant
 2. Copy the esphome config snippet below the header. I left the captive_portal directive in the snippet for reference. Make sure it's only there once.
